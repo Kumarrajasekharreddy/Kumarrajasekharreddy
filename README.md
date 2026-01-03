@@ -1,7 +1,7 @@
 <!-- Hi there 👋, I’m Rajasekhar — Aspiring Data Scientist from Hyderabad -->
 <!-- This README is styled like Asia Sharif's profile for maximum impact -->
 
-Hi there 👋, I’m **Rajasekhar** — an Aspiring Data Scientist who transitioned into data & analytics through real-world projects.
+Hi there 👋, I’m **Kumar Rajasekhar Reddy P** — an Aspiring Data Scientist who transitioned into data & analytics through real-world projects.
 
 🔹 Building dashboards, ML models & AI tools  
 🔹 Passionate about solving problems with data  
@@ -67,6 +67,4 @@ I’m open to working on:
 🌐 LinkedIn: https://www.linkedin.com/in/kumar-rajasekhar-reddy-223444360/ 
 🚀 GitHub: https://github.com/Kumarrajasekharreddy
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumarrajasekharreddy&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumarrajasekharreddy&theme=react-dark&hide_border=false)](https://git.io/streak-stats)
