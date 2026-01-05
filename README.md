@@ -61,7 +61,6 @@ I’m open to working on:
 
 ---
 
-✨ *Let’s build something great together!*  
 📧 Email: kumarrajasekharreddy24@gmail.com  
 🌐 LinkedIn: https://www.linkedin.com/in/kumar-rajasekhar-reddy-223444360/ 
 🚀 GitHub: https://github.com/Kumarrajasekharreddy
