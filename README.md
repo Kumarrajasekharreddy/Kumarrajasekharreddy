@@ -41,15 +41,6 @@ Hi there 👋, I’m **Kumar Rajasekhar Reddy P** — an Aspiring Data Scientist
 
 - [👉 Click Me to See All Projects](https://github.com/Kumarrajasekharreddy?tab=repositories)
 
-- ### 🖼️ Project Gallery
-
-| Project | Screenshot | Demo Video |
-|---------|------------|------------|
-| 👤 Face Recognition | ![Face Scan](https://via.placeholder.com/300x200?text=Face+Scan) | [▶️ Watch](https://youtu.be/your-link-here) |
-| 🏥 Hospitals Dashboard | ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | [▶️ Watch](https://youtu.be/your-link-here) |
-| 📊 Credit Card Fraud | ![Fraud Model](https://via.placeholder.com/300x200?text=Fraud+Model) | [▶️ Watch](https://youtu.be/your-link-here) |
-| 🤖 AI Assistant | ![AI Dashboard](https://via.placeholder.com/300x200?text=AI+Dashboard) | [▶️ Watch](https://youtu.be/your-link-here) |
-
 ---
 
 ### 📝 Latest Blog Posts 
