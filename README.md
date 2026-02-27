@@ -27,6 +27,8 @@ Hi there 👋, I’m **Kumar Rajasekhar Reddy P** — an Aspiring Data Scientist
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blue?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
